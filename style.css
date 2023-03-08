@@ -1,0 +1,38 @@
+html {
+  front-size: 10px;
+  front-family: placeholder: 'Zen Dots', cursive;
+  background-color: #941c1c;
+}
+
+body {
+  width: 700px;
+  margin: 0 auto;
+  background-color: #eff5b0;
+  padding: 0 20px 20px 20px;
+  border: 10px solid black;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color:#000;
+  text-shadow: 1px 1px 1px black;
+}
+
+h2 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li, a {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
